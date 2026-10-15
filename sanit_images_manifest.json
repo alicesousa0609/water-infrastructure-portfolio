@@ -1,0 +1,110 @@
+[
+  {
+    "filename": "01_pipe_bursting_diagram.jpg",
+    "title": "Pipe Bursting / Cracking",
+    "image_type": "Technical illustration",
+    "image_url": "https://www.sanit.com.br/wp-content/uploads/2025/08/Pipe-burst-en.jpg",
+    "official_source_page": "https://www.sanit.com.br/en/technologies-en/pipe-bursting-3/",
+    "english_caption": "Mechanism for trenchless replacement of an existing pipe with a new line, typically HDPE",
+    "portfolio_relevance": "High"
+  },
+  {
+    "filename": "02_pipe_insertion_photo.jpg",
+    "title": "Pipe Insertion – HDPE",
+    "image_type": "Photograph",
+    "image_url": "https://www.sanit.com.br/wp-content/uploads/2024/08/c-lining.jpg",
+    "official_source_page": "https://www.sanit.com.br/en/technologies-en/pipe-insertion/",
+    "english_caption": "Large pipe placement; corporate reference image, not verified as a project worked on by Alice",
+    "portfolio_relevance": "High"
+  },
+  {
+    "filename": "03_horizontal_directional_drilling_diagram.jpg",
+    "title": "Horizontal Directional Drilling",
+    "image_type": "Technical illustration",
+    "image_url": "https://www.sanit.com.br/wp-content/uploads/2025/08/tuneleria-horizontal-en.jpg",
+    "official_source_page": "https://www.sanit.com.br/en/technologies-en/horizontal-directional-drilling/",
+    "english_caption": "Illustration of directional drilling and underground utility avoidance",
+    "portfolio_relevance": "High"
+  },
+  {
+    "filename": "04_horizontal_directional_drilling_photo.jpg",
+    "title": "Horizontal Directional Drilling – Equipment",
+    "image_type": "Photograph",
+    "image_url": "https://www.sanit.com.br/wp-content/uploads/2024/08/servicio-tuneleria-1.jpg",
+    "official_source_page": "https://www.sanit.com.br/en/technologies-en/horizontal-directional-drilling/",
+    "english_caption": "Photograph of trenchless installation equipment",
+    "portfolio_relevance": "High"
+  },
+  {
+    "filename": "05_network_diagnostics_photo.jpg",
+    "title": "Network Diagnostics",
+    "image_type": "Photograph / promotional image",
+    "image_url": "https://www.sanit.com.br/wp-content/uploads/2024/08/diagnostico.jpg",
+    "official_source_page": "https://www.sanit.com.br/en/technologies-en/network-diagnostics/",
+    "english_caption": "Remote inspection systems for pipelines",
+    "portfolio_relevance": "High"
+  },
+  {
+    "filename": "06_gpr_mapping_illustration.jpg",
+    "title": "GPR & GPS Mapping",
+    "image_type": "Technical illustration",
+    "image_url": "https://www.sanit.com.br/wp-content/uploads/2024/08/geo_radar.jpg",
+    "official_source_page": "https://www.sanit.com.br/en/technologies-en/gpr-gps-mapping/",
+    "english_caption": "Subsurface mapping and utility conflict detection",
+    "portfolio_relevance": "High"
+  },
+  {
+    "filename": "07_leak_pressure_test_diagram.png",
+    "title": "Leak & Pressure Testing",
+    "image_type": "Technical illustration",
+    "image_url": "https://www.sanit.com.br/wp-content/uploads/2025/08/estanqueidad-en.png",
+    "official_source_page": "https://www.sanit.com.br/en/technologies-en/leak-and-pressure-testing/",
+    "english_caption": "Isolated test section, pressure checks and leak detection",
+    "portfolio_relevance": "High"
+  },
+  {
+    "filename": "08_bypass_system_photo.png",
+    "title": "Wastewater Bypass System",
+    "image_type": "Photograph",
+    "image_url": "https://www.sanit.com.br/wp-content/uploads/2024/08/by-pass.png",
+    "official_source_page": "https://www.sanit.com.br/en/technologies-en/bypass-system/",
+    "english_caption": "Temporary diversion works and bypass equipment; not evidence of Alice carrying out bypass construction",
+    "portfolio_relevance": "Medium"
+  },
+  {
+    "filename": "09_spot_repair_equipment.png",
+    "title": "Spot Repair",
+    "image_type": "Product photo / illustration",
+    "image_url": "https://www.sanit.com.br/wp-content/uploads/2024/08/stop-repair.png",
+    "official_source_page": "https://www.sanit.com.br/en/technologies-en/spot-repair-en/",
+    "english_caption": "Localised structural rehabilitation of a pipeline",
+    "portfolio_relevance": "Medium"
+  },
+  {
+    "filename": "10_cipp_before_after.png",
+    "title": "CIPP Rehabilitation — Before & After",
+    "image_type": "Technical graphic",
+    "image_url": "https://www.sanit.com.br/wp-content/uploads/2025/08/manga-bk-tubos1-en.png",
+    "official_source_page": "https://www.sanit.com.br/en/technologies-en/cured-in-place-pipe-2/",
+    "english_caption": "Comparison illustrating the pipeline internal surface after rehabilitation",
+    "portfolio_relevance": "Medium"
+  },
+  {
+    "filename": "11_special_inspections_photo.jpg",
+    "title": "Special Inspections — Field Work",
+    "image_type": "Photograph / composite",
+    "image_url": "https://www.sanit.com.br/wp-content/uploads/2024/09/inspeccion-especiales-v.jpg",
+    "official_source_page": "https://www.sanit.com.br/en/technologies-en/special-inspections/",
+    "english_caption": "Field inspection and in-pipe equipment",
+    "portfolio_relevance": "Medium"
+  },
+  {
+    "filename": "12_special_inspections_illustration.jpg",
+    "title": "Special Inspections — Pipeline Tool",
+    "image_type": "Technical illustration",
+    "image_url": "https://www.sanit.com.br/wp-content/uploads/2024/09/inspeccion-especiales-h.jpg",
+    "official_source_page": "https://www.sanit.com.br/en/technologies-en/special-inspections/",
+    "english_caption": "Inspection tool inside a pipeline",
+    "portfolio_relevance": "Medium"
+  }
+]
