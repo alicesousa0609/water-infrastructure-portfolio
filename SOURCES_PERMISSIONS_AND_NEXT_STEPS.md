@@ -37,4 +37,4 @@ These source pages are company property and are included as **references to SANI
 6. To add a profile biography, create a repository named exactly as your username; copy the contents of `GITHUB_PROFILE_README.md` into its `README.md`, replacing `YOUR-USERNAME`.
 7. Pin your portfolio repository on your GitHub profile and add the GitHub Pages link to the optional recruitment form field.
 
-**The supplied GitHub links are templates only; no public account or live repository has been created.**
+**Repository:** https://github.com/alicesousa0609/water-infrastructure-portfolio/  ·  **Pages (when enabled):** https://alicesousa0609.github.io/water-infrastructure-portfolio/

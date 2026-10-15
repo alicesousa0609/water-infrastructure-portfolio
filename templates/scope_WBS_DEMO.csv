@@ -1,0 +1,5 @@
+Package,Work package,Description,Owner,Acceptance criteria,Status,Notes
+DEMO-01,Survey & utilities,Validate available services records,Engineering,Constraints and drawing log approved,In progress,DEMO DATA ONLY – fictional quantities and rates, not SANIT or client records
+DEMO-02,Design & documentation,Review drawings and revision status,Engineering,Issued-for-construction record,Planned,Illustrative
+DEMO-03,Pipe installation,Record HDPE installation and field evidence,Contractor,Inspection signed off,Planned,Illustrative
+DEMO-04,Closeout,Consolidate tests and as-built records,Project team,Handover accepted,Planned,Illustrative

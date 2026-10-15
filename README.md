@@ -4,7 +4,7 @@ Civil Engineer based in São Paulo, Brazil | **Open to relocation to Dublin, Ire
 
 **Project coordination · Urban water-supply networks · Construction planning · Site reporting · Cost and quantity controls · Stakeholder management**
 
-[View the professional portfolio website](index.html) · [SANIT water-supply case study](projects/sanit-water-supply-network.md) · [Project delivery & commercial controls](projects/project-delivery-controls.md) · [LinkedIn](https://www.linkedin.com/in/engalicesousa/) · [Email](mailto:engalicesousa@gmail.com)
+[View professional portfolio website](https://alicesousa0609.github.io/water-infrastructure-portfolio/) · [SANIT water-supply case study](projects/sanit-water-supply-network.md) · [Project delivery & commercial controls](projects/project-delivery-controls.md) · [LinkedIn](https://www.linkedin.com/in/engalicesousa/) · [Email](mailto:engalicesousa@gmail.com)
 
 ## Professional profile
 
@@ -23,12 +23,12 @@ My goal is to contribute these transferable technical and project-delivery skill
 
 ## Practical project controls
 
-- **[Scope / WBS](templates/Water_Project_Controls_DEMO.xlsx)** — deliverables, acceptance criteria, owners and status.
-- **[Quantity & progress measurement](templates/Water_Project_Controls_DEMO.xlsx)** — plan vs measured quantities and illustrative certified value calculations.
-- **[Risks and interfaces](templates/Water_Project_Controls_DEMO.xlsx)** — risk register, mitigation action and ownership.
-- **[Change / variation log](templates/Water_Project_Controls_DEMO.xlsx)** — change requests and cost/time implications.
+- **[Scope / WBS](templates/scope_WBS_DEMO.csv)** — deliverables, acceptance criteria, owners and status.
+- **[Quantity & progress measurement](templates/measurements_DEMO.csv)** — plan vs measured quantities and illustrative certified value calculations.
+- **[Risks and interfaces](templates/risks_DEMO.csv)** — risk register, mitigation action and ownership.
+- **[Change / variation log](templates/variations_DEMO.csv)** — change requests and cost/time implications.
 
-> **Transparency:** The workbook is an educational demonstration with fictional IDs, quantities and rates. It is **not** an actual SABESP, SANIT, IPDA or Irish contract record. Project figures, achievements or executive ownership are not invented.
+> **Transparency:** The linked CSV templates are educational demonstrations with fictional IDs, quantities and rates. It is **not** an actual SABESP, SANIT, IPDA or Irish contract record. Project figures, achievements or executive ownership are not invented.
 
 ## Technical tools
 
@@ -45,7 +45,7 @@ The following are **SANIT corporate materials**, linked for technical context an
 3. [SANIT — Company media / project gallery (English)](https://www.sanit.com.br/en/media-en/)
 4. [SANIT — About Us (English)](https://www.sanit.com.br/en/about-us/)
 
-Photography, videos, brand marks and technical drawings remain property of their respective owners. Link to the originals; obtain appropriate permission before reproducing or re-hosting materials.
+Original conceptual SVG diagrams are included in this repository. SANIT photography, videos, brand marks and technical drawings remain property of their respective owners. Link to the originals; obtain appropriate permission before reproducing or re-hosting materials.
 
 ## Professional contact
 
@@ -54,3 +54,8 @@ Photography, videos, brand marks and technical drawings remain property of their
 - **Location:** São Paulo, Brazil · **Mobility:** relocation to Ireland and site travel
 
 *This portfolio documents my contributions and presents example project-management artefacts. It does not imply a licence to practise engineering in Ireland or prior experience working to Irish/UK water-sector standards.*
+
+
+## Visual technical gallery
+
+The website contains four **original**, conceptual SVG illustrations for pipe bursting, horizontal directional drilling, underground-services mapping and project controls. Links to SANIT’s actual project and technology imagery lead to the official corporate site. The gallery does **not** reuse or re-host SANIT-owned photographs.

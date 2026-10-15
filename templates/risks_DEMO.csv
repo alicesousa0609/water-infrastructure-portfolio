@@ -1,0 +1,5 @@
+Risk ID,Risk or constraint,Likelihood,Impact,Mitigation,Owner,Status,Data status
+R-DEMO-01,Unrecorded gas or electric utility,High,High,Verify records and undertake appropriate surveys and permits,Engineering,Open,Fictional demo
+R-DEMO-02,Traffic or public access disruption,Medium,High,Plan permits and traffic management in advance,Site coordination,Open,Fictional demo
+R-DEMO-03,Delayed HDPE fittings,Medium,Medium,Early procurement and look-ahead review,Procurement,Monitoring,Fictional demo
+R-DEMO-04,Drawing and field alignment discrepancy,Medium,High,Escalate and document controlled revision,Engineering,Open,Fictional demo

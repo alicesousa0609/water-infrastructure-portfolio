@@ -1,0 +1,4 @@
+Item,Material,Nominal diameter mm,Method,Planned quantity m,Measured quantity m,Accepted quantity m,Unit rate EUR per m,Accepted value EUR,Remaining quantity m,Data status
+DEMO-01,HDPE,100,Trenchless,500,320,300,115,34500,200,Fictional demo
+DEMO-02,HDPE,150,Open-cut,250,160,150,180,27000,100,Fictional demo
+DEMO-03,HDPE,100,Open-cut,180,90,85,135,11475,95,Fictional demo
